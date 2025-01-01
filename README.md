@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AJAY
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently Data Analytics
+- 👀 I’m Data Analytics Enthusiast
+- 🌱 Love Data and Analysis
 - 💞️ I’m looking to collaborate 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing
